@@ -1,5 +1,5 @@
-# 💫 About Me:
-## About Me<br><br>🔭 Currently developing **AI/ML solutions** focused on real-world applications and intelligent systems.<br><br>👯 Open to collaborating on **Artificial Intelligence, Machine Learning, Deep Learning, and Data Science** projects.<br><br>🤝 Interested in collaborating with developers and researchers to build scalable, impactful AI solutions.<br><br>🌱 Continuously expanding my knowledge in **Deep Learning, Computer Vision, NLP, and Model Optimization**.<br><br>💬 Feel free to discuss **Python, Machine Learning, Neural Networks, and AI-driven innovation** with me.<br><br>⚡ Beyond technology: International-level Kickboxing athlete, bringing the same discipline, consistency, and competitive mindset to engineering.
+
+## About Me<br><br>🔭 Currently developing **AI/ML solutions** focused on real-world applications and intelligent systems.<br><br> Open to collaborating on **Artificial Intelligence, Machine Learning, Deep Learning, and Data Science** projects.<br><br> Interested in collaborating with developers and researchers to build scalable, impactful AI solutions.<br><br> Continuously expanding my knowledge in **Deep Learning, Computer Vision, NLP, and Model Optimization**.<br><br> Feel free to discuss **Python, Machine Learning, Neural Networks, and AI-driven innovation** with me.<br><br> Beyond technology: International-level Kickboxing athlete, bringing the same discipline, consistency, and competitive mindset to engineering.
 
 
 ## 🌐 Socials:
@@ -15,19 +15,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=safarbekhamroyev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
-<!--
-**safarbekhamroyev/safarbekhamroyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
